@@ -1,3 +1,2 @@
-# Coursera
-Certification from University of Michigan
-Level: Intermediate
+# Certifications
+My Data Science Certifications
