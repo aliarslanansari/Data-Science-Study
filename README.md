@@ -3,5 +3,5 @@ This repository contains jupyter notebook and other resources made by me during 
 
 * books in "/books" directory
 
-I'm updating resourses on regular basis
+I'm updating resourses on regular basis...
 
